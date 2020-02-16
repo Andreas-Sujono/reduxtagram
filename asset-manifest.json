@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reduxtagram/static/css/main.0c41a408.chunk.css",
+    "main.js": "/reduxtagram/static/js/main.1d534a20.chunk.js",
+    "main.js.map": "/reduxtagram/static/js/main.1d534a20.chunk.js.map",
+    "runtime-main.js": "/reduxtagram/static/js/runtime-main.ed70c30f.js",
+    "runtime-main.js.map": "/reduxtagram/static/js/runtime-main.ed70c30f.js.map",
+    "static/js/2.f648d776.chunk.js": "/reduxtagram/static/js/2.f648d776.chunk.js",
+    "static/js/2.f648d776.chunk.js.map": "/reduxtagram/static/js/2.f648d776.chunk.js.map",
+    "index.html": "/reduxtagram/index.html",
+    "precache-manifest.dd62f0b69606ac754eca106db630ceb0.js": "/reduxtagram/precache-manifest.dd62f0b69606ac754eca106db630ceb0.js",
+    "service-worker.js": "/reduxtagram/service-worker.js",
+    "static/css/main.0c41a408.chunk.css.map": "/reduxtagram/static/css/main.0c41a408.chunk.css.map",
+    "static/js/2.f648d776.chunk.js.LICENSE.txt": "/reduxtagram/static/js/2.f648d776.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed70c30f.js",
+    "static/js/2.f648d776.chunk.js",
+    "static/css/main.0c41a408.chunk.css",
+    "static/js/main.1d534a20.chunk.js"
+  ]
+}
