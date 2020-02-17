@@ -7,7 +7,7 @@ body, html, #root{
 
 .main{
 	text-align: center;
-	font-size: 70px;
+	font-size: 50px;
 	margin: 20px;
 	font-family:cursive;
 	color:#174c75;
@@ -123,13 +123,16 @@ body, html, #root{
 	max-width: 500px;
 }
 @media Screen and (max-width: 1100px){
+	.main{
+		font-size: 36px;
+	}
 	.single img{
 		max-width: 60%;
 	}
 }
 
 .single .caption{
-	width: 500px;
+	max-width: 500px;
 	font-size: 18px;
 	padding-left: 10px;
 	margin-top: 5px;
