@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40479859ec2eabf74fa5ef6f9b2844e8",
+    "revision": "c4cdebb87dce7cf597b92f238a0da8bb",
     "url": "/reduxtagram/index.html"
   },
   {
-    "revision": "380a7b4ebbc686f5eda3",
-    "url": "/reduxtagram/static/css/main.0c41a408.chunk.css"
+    "revision": "ab253b0c6de96c2e4382",
+    "url": "/reduxtagram/static/css/main.755ba9df.chunk.css"
   },
   {
     "revision": "4c4a398f6ac30d33abd3",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reduxtagram/static/js/2.f648d776.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "380a7b4ebbc686f5eda3",
+    "revision": "ab253b0c6de96c2e4382",
     "url": "/reduxtagram/static/js/main.1d534a20.chunk.js"
   },
   {
