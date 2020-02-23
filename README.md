@@ -1,6 +1,38 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ReduxTagram
+========
+
+reduxTagram is instagram clone using react and redux for maintain state of entire application.
+
+you can see it live at [https://andreas-sujono.github.io/reduxtagram/](https://andreas-sujono.github.io/reduxtagram/)
+
+<img src='./Readme-asset/demo.png' alt="reduxtagram demo" width='100%' />
+
+Dependencies
+--------
+
+- react
+- react-redux
+- redux
+- react-router-dom
+- gh-pages (for deployment)
+
+Other library: Bootstrap
+
+Installation
+------------
+
+Clone this repository, and run:
+
+    yarn install
+
+   or
+   
+    npm install
+
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
